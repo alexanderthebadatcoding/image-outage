@@ -34,4 +34,4 @@ Vercel should auto update, and create your Picture frame. It will create a link 
 
 
 # Thansk to Frog
-This is built using the code at **https://frog.fm** 🐸 💚
+This is built using **https://frog.fm** 🐸 💚
