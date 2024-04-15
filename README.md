@@ -24,6 +24,8 @@ Replace the images in the Public Folder. Make sure they are 1.png, 2.png, 3.png,
 # Step 5 Optional
 Rename the first Frame by editing the index.tsx file in the api folder:
 ```const frameTitle = "Image Outage 2024";```
+just change the text in the quoation marks. ie:
+```const frameTitle = "Frames are Fun!";```
 
 # Step 6
 Vercel should auto update, and create your Picture frame. It will create a link and to share just copy the link with the full /api so for example "https://image-outage.vercel.app/api" If you want to test it go to https://warpcast.com/~/developers/frames
