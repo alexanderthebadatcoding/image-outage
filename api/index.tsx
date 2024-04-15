@@ -114,7 +114,7 @@ app.frame("/image4", (c) => {
         {leftArrow}
       </Button>,
 
-      <Button.Link href="https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Falexanderthebadatcoding%2Fimage-outage">
+      <Button.Link href="https://github.com/alexanderthebadatcoding/image-outage/">
         Create a Picture Frame
       </Button.Link>,
     ],
