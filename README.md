@@ -3,10 +3,12 @@ Must have a free github account and clicking the deploy button below should get 
 
 # Step 1
 Click the Button Below
+
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Falexanderthebadatcoding%2Fimage-outage)
 
 # Step 2
 <img width="450" alt="image" src="https://github.com/alexanderthebadatcoding/image-outage/assets/127344545/36225cf8-bd4a-413a-ae41-07afdf41c39f">
+
 Give your repository a name and click create.
 
 # Step 3
