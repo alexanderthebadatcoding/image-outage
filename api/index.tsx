@@ -114,7 +114,7 @@ app.frame("/image4", (c) => {
         {leftArrow}
       </Button>,
 
-      <Button.Link href="https://github.com/alexanderthebadatcoding/image-outage">
+      <Button.Link href="https://github.com/alexanderthebadatcoding/image-outage/">
         Create a Picture Frame
       </Button.Link>,
     ],
