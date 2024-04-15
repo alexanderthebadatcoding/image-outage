@@ -31,3 +31,7 @@ just change the text in the quoation marks. ie:
 
 # Step 6
 Vercel should auto update, and create your Picture frame. It will create a link and to share just copy the link with the full /api so for example "https://image-outage.vercel.app/api" If you want to test it go to https://warpcast.com/~/developers/frames
+
+
+# Thansk to Frog
+This is built using the code at **https://frog.fm** 🐸 💚
