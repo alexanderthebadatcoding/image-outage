@@ -2,7 +2,7 @@
 Must have a free github account and clicking the deploy button below should get you a free vercel account as well.
 
 # Step 1
-Click the Deploy Button Below or go to "**https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Falexanderthebadatcoding%2Fimage-outage**"
+Click the Deploy Button Below:
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Falexanderthebadatcoding%2Fimage-outage)
 
